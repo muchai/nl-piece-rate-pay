@@ -15,7 +15,7 @@ The Piece Rate Pay streamlines the management of casual workers' payments by pro
 
 -  **Activity Type:**
 
-![Screenshot from 2024-04-28 07-40-42](https://github.com/navariltd/navari_csf_ke/assets/60258622/7e9a53c0-347c-452f-87bd-546934a455a1)
+![Screenshot from 2024-08-14 16-27-52](https://github.com/user-attachments/assets/7c6d7da4-ed24-4d6d-9a74-6e57463aaa97)
 
   
 
@@ -25,7 +25,7 @@ Define primary tasks for casual workers, such as "Washing" "Loading" or "Un-Load
 
 -  **Casual Activity Item:**
 
-![Screenshot from 2024-04-28 08-58-46](https://github.com/navariltd/navari_csf_ke/assets/60258622/36ca612f-1e12-4f22-bd81-45a732d9665e)
+![Screenshot from 2024-08-14 16-24-54](https://github.com/user-attachments/assets/8930c6a9-944d-467b-95dd-34ebc8ca509c)
 
   
 
@@ -56,7 +56,8 @@ Log daily attendance, including the type of shift worked.
 
 -  **Casual Payroll Payout:**
 
-![image (1)](https://github.com/navariltd/navari_csf_ke/assets/60258622/ed9bbeea-997e-41af-a462-48e3e2d87239)
+![image (3)](https://github.com/user-attachments/assets/66dae217-e76b-4c4a-a13f-a1931cefc658)
+
 
 Has two important tables.
 
@@ -88,8 +89,8 @@ Has two important tables.
 
   
   
+![image (4)](https://github.com/user-attachments/assets/a173690d-0eb6-4137-9856-02a813d00274)
 
-![image (2)](https://github.com/navariltd/navari_csf_ke/assets/60258622/7fa5d17e-1ca2-475d-937c-c5580637c9cc)
 
 **Doctypes:**
 
